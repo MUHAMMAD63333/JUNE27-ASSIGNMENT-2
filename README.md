@@ -1,12 +1,27 @@
-# June27-Assignment-2
+# JUNE27-ASSIGNMENT-2
 
 This is our second assignment. Your first issue will be to complete the README.md (this file).
 
--  *a title **(required)**
--  *a description **(required)**
--  a list of features (ai, machine learning, etc...)
--  a list of technologies used (languages, frameworks, etc...)
--  a list of known bugs (don't really need a description, just a list, the bug is usually sefl-explanatory)
--  a list of contributors (usernames only, GitHub profile links would work)
--  some instructions (how to install, how to use, etc...)
--  you can also add a table of contents, images, links, etc... (these would be for larger projects but have fun if you like 😊)
+## Description
+This is my Assignment 2 project using HTML, CSS, JavaScript, and GitHub.
+
+## Features
+- A web page with heading and styling
+- JavaScript alert message
+- Project image
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Known Bugs
+- Image not scaling well on mobile
+
+## Contributors
+- @yourGitHubUsername
+
+## Instructions
+1. Clone this repo
+2. Open index.html in a browser
+3. See the page, image, and alert
